@@ -1,4 +1,4 @@
-# COllege wifi connection interface
+# College wifi connection interface
 <br>
 This is the interface for the  hostel or college wifi connection .
 <br>
